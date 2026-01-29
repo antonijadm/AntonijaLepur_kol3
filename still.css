@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pozadina{
+	background-image:url("slika1.jpeg")
+}
+		
+p{
+	color: darkgreen;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+	line-height: 20px;
+	width: 600px;
+	}
+h1{
+    font-family: "AntonijaLepur";
+    src:url("AntonijaLepur.ttf");
+	}
+img{
+	height: 200px;
+}
+h3{
+	color:#340538;
+}
